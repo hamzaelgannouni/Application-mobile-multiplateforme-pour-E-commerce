@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Phone Number Authentication</string>
+    <string name="todo">TODO</string>
+    <string name="verify_your_number">Verify Your Number</string>
+    <string name="please_enter_your_country_code_n_and_phone_number_for_verification">Please enter your Country Code \n and Phone number for verification</string>
+    <string name="_91">+91</string>
+    <string name="your_phone_number">Your Phone Number</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="working">Working . . .</string>
+    <string name="tvac_studio">TVAC Studio</string>
+</resources>
